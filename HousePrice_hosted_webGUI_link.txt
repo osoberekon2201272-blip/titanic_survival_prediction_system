@@ -1,0 +1,6 @@
+Soberekon Otokini Elizabeth
+22CG031957
+Random Forest Regressor
+Joblib
+https://houseprediction-1-k9nz.onrender.com
+https://github.com/osoberekon2201272-blip/HousePrediction
